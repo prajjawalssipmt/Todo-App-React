@@ -1,0 +1,26 @@
+.appHead{
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 25px;
+}
+
+input{
+  width : 80%;
+  height: 50px;
+  float:left;
+  padding: 5px;
+}
+
+.items-container{
+  text-align: left;
+}
+
+.kg-row{
+  margin: 10px 5px;
+}
+
+.kg-btn{
+  min-width: 50px;
+  float: left;
+}
